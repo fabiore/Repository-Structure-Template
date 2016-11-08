@@ -54,7 +54,14 @@ Please read [CONTRIBUTING.md](https://github.com/flabe81/Repository-Structure-Te
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+v0.2
+- [change log file](Repository-Structure-Template/docs/v-0.2-changelog)
+- item 2
+- item 3
+v0.1
+- [change log file](Repository-Structure-Template/docs/v-0.1-changelog)
+- item 2
+- item 3
 
 ## Authors
 
