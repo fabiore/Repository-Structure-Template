@@ -54,8 +54,8 @@ Please read [CONTRIBUTING.md](https://github.com/flabe81/Repository-Structure-Te
 
 ## Versioning
 
-- [v0.2](docs/v-0.2-changelog)
-- [v0.1](docs/v-0.1-changelog)
+- [v0.2](docs/v0.2-changelog)
+- [v0.1](docs/v0.1-changelog)
 
 
 ## Authors
