@@ -43,6 +43,11 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
+## STM Documentation
+
+List of documentation in the [STM official page](http://stmvalidation.eu/documents/)
+
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/flabe81/Repository-Structure-Template/blob/master/docs/contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
