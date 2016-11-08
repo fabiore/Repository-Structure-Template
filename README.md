@@ -55,13 +55,11 @@ Please read [CONTRIBUTING.md](https://github.com/flabe81/Repository-Structure-Te
 ## Versioning
 
 v0.2
-- [change log file](Repository-Structure-Template/docs/v-0.2-changelog)
-- item 2
-- item 3
+- [change log file](docs/v-0.2-changelog)
+
 v0.1
-- [change log file](Repository-Structure-Template/docs/v-0.1-changelog)
-- item 2
-- item 3
+- [change log file](docs/v-0.1-changelog)
+
 
 ## Authors
 
