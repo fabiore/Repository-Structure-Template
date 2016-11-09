@@ -50,7 +50,7 @@ List of documentation in the [STM official page](http://stmvalidation.eu/documen
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/flabe81/Repository-Structure-Template/blob/master/docs/contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](docs/contribute/contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
