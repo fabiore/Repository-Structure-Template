@@ -61,7 +61,7 @@ Please read [CONTRIBUTING.md](https://github.com/flabe81/Repository-Structure-Te
 ## Authors
 
 * **Fabio Renda** - *Initial work* - [contributor page]
-See also the list of [contributors](https://github.com/your/project/docs/contribute/contributors.md) who participated in this project.
+See also the list of [contributors](docs/contribute/contributors.md) who participated in this project.
 
 ## License
 
