@@ -54,14 +54,14 @@ Please read [CONTRIBUTING.md](https://github.com/flabe81/Repository-Structure-Te
 
 ## Versioning
 
-- [v0.2](docs/v0.2-changelog)
-- [v0.1](docs/v0.1-changelog)
+- [v0.2](docs/changelog/0.2.md)
+- [v0.1](docs/changelog/0.1.md)
 
 
 ## Authors
 
 * **Fabio Renda** - *Initial work* - [contributor page]
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/your/project/docs/contribute/contributors.md) who participated in this project.
 
 ## License
 
